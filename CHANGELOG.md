@@ -1,9 +1,27 @@
-# [4.35.0](https://github.com/bmadcode/BMAD-METHOD/compare/v4.34.0...v4.35.0) (2025-08-04)
+## [4.35.3](https://github.com/bmadcode/BMAD-METHOD/compare/v4.35.2...v4.35.3) (2025-08-06)
 
+
+### Bug Fixes
+
+* doc location improvement ([1676f51](https://github.com/bmadcode/BMAD-METHOD/commit/1676f5189ed057fa2d7facbd6a771fe67cdb6372))
+
+## [4.35.2](https://github.com/bmadcode/BMAD-METHOD/compare/v4.35.1...v4.35.2) (2025-08-06)
+
+### Bug Fixes
+
+- npx status check ([f7c2a4f](https://github.com/bmadcode/BMAD-METHOD/commit/f7c2a4fb6c454b17d250b85537129b01ffee6b85))
+
+## [4.35.1](https://github.com/bmadcode/BMAD-METHOD/compare/v4.35.0...v4.35.1) (2025-08-06)
+
+### Bug Fixes
+
+- npx hanging commands ([2cf322e](https://github.com/bmadcode/BMAD-METHOD/commit/2cf322ee0d9b563a4998c72b2c5eab259594739b))
+
+# [4.35.0](https://github.com/bmadcode/BMAD-METHOD/compare/v4.34.0...v4.35.0) (2025-08-04)
 
 ### Features
 
-* add qwen-code ide support to bmad installer. ([#392](https://github.com/bmadcode/BMAD-METHOD/issues/392)) ([a72b790](https://github.com/bmadcode/BMAD-METHOD/commit/a72b790f3be6c77355511ace2d63e6bec4d751f1))
+- add qwen-code ide support to bmad installer. ([#392](https://github.com/bmadcode/BMAD-METHOD/issues/392)) ([a72b790](https://github.com/bmadcode/BMAD-METHOD/commit/a72b790f3be6c77355511ace2d63e6bec4d751f1))
 
 # [4.34.0](https://github.com/bmadcode/BMAD-METHOD/compare/v4.33.1...v4.34.0) (2025-08-03)
 
